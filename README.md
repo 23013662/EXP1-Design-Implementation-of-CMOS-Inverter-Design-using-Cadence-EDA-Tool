@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+![image]![image](https://github.com/user-attachments/assets/a0b48010-762f-4a6f-a91c-2d966189ea4e)
+
 
 
  
@@ -64,7 +65,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+ ![image]![image](https://github.com/user-attachments/assets/db767650-f30a-4fde-bdcd-e70ee3474320)
+
 
 
 iv)	Creating the new test cell view
@@ -76,7 +78,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![image]![image](https://github.com/user-attachments/assets/ff4229a7-df85-4208-a760-a86b88062594)
+
 
 
  
@@ -90,19 +93,24 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+ ![image]![image](https://github.com/user-attachments/assets/596b4be2-4428-466c-8b05-96fb29ced5ac)
+
 
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![image]![image](https://github.com/user-attachments/assets/446e3b40-0be3-42fd-ae90-df031ab598a3)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+
+ ![image]![image](https://github.com/user-attachments/assets/cb1b51d3-cd7e-4676-94ec-3deda5928581)
+
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+![image]![image](https://github.com/user-attachments/assets/7673b02d-8536-4947-9aa3-e65ec8ce9421)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+
+![image]![image](https://github.com/user-attachments/assets/60962c15-8c39-49ed-b96c-cda4f5dbd608)
+
 
  
 
